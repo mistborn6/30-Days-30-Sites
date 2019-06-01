@@ -1,0 +1,84 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+section {
+  padding: 30px 0;
+}
+
+ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+.slider {
+  background-image: url("https://source.unsplash.com/eDWkBBVhvVk/1920x1080");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 60vh;
+}
+
+.memorial-place {
+  padding: 15px;
+  background-color: #DFDFDF;
+}
+
+.memorial-place h3 {
+  margin-top: 10px;
+}
+
+.plaza {
+  margin: 0 10px 0 -10px;
+}
+
+.map {
+  margin: 0 0 0 -10px;
+  min-width: 1150px;
+}
+
+.footer-top {
+  background-color: #2D2E32;
+}
+
+.footer-top .property {
+  margin: 0 10px 0 -10px;
+  padding: 0 30px 0 0;
+}
+
+.footer-top .social-media {
+  padding: 0 0 0 30px;
+}
+
+.footer-bottom {
+  padding-top: 30px;
+  background-color: #383838;
+}
+
+.footer-bottom .nav-links {
+  margin: 0 10px 0 -10px;
+  padding: 0 30px 0 0;
+}
+
+.footer-bottom .nav-links > ul {
+  float: left;
+  padding-right: 30px;
+}
+
+.footer-bottom .buildings ul > li {
+  float: left;
+}
+
+.footer-bottom .buildings ul > li > a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding-right: 10px;
+}
+/*# sourceMappingURL=main.css.map */
